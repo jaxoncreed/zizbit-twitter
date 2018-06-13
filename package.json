@@ -1,0 +1,29 @@
+{
+  "name": "zizbit-twitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaxoncreed/zizbit-twitter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaxoncreed/zizbit-twitter/issues"
+  },
+  "homepage": "https://github.com/jaxoncreed/zizbit-twitter#readme",
+  "dependencies": {
+    "brill": "^1.0.0",
+    "buzzwords": "^1.1.0",
+    "buzzwordy": "^1.0.0",
+    "fillers": "^1.1.0",
+    "twitter": "^1.7.0",
+    "txtgen": "^1.0.8"
+  }
+}
